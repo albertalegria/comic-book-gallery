@@ -67,6 +67,9 @@ namespace comicbookgallery.Controllers
             };
 
             return View(comicBook);
+
+
+
         }
 
 
